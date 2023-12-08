@@ -16,7 +16,7 @@ BiocManager::install("qvalue")
 
 ## Install ReAD
 install.packages("devtools")
-devtools::install_github("YanLi15/ReAD")
+devtools::install_github("hongyuan-cao/ReAD")
 # An alternative installation method from CRAN
 install.packages("ReAD")
 

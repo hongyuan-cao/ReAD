@@ -1,0 +1,59 @@
+[
+    {
+        "file": "C:/Users/P53/Documents/R pacakges/ReAD/src/em_hmm.cpp",
+        "file_last_write": 1686583796.0,
+        "definitions": [
+            {
+                "usr": "c:@F@em_hmm#*$@S@SEXPREC#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "em_hmm(SEXP, SEXP, SEXP, SEXP)",
+                "file": "C:/Users/P53/Documents/R pacakges/ReAD/src/em_hmm.cpp",
+                "line": 30,
+                "column": 6,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@na_rm#&$@N@arma@S@Col>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "na_rm(arma::vec &)",
+                "file": "C:/Users/P53/Documents/R pacakges/ReAD/src/em_hmm.cpp",
+                "line": 199,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@replis#&$@N@arma@S@Col>#d#&$@N@arma@S@Mat>#d#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "replis(arma::vec &, arma::mat &, arma::vec &, arma::vec &)",
+                "file": "C:/Users/P53/Documents/R pacakges/ReAD/src/em_hmm.cpp",
+                "line": 207,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@fdr#&$@N@arma@S@Col>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "fdr(arma::vec &)",
+                "file": "C:/Users/P53/Documents/R pacakges/ReAD/src/em_hmm.cpp",
+                "line": 245,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@my_pava#&$@N@arma@S@Col>#d#S0_#b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "my_pava(arma::vec &, arma::vec &, bool)",
+                "file": "C:/Users/P53/Documents/R pacakges/ReAD/src/em_hmm.cpp",
+                "line": 257,
+                "column": 5,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]

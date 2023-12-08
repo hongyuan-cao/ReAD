@@ -1,0 +1,19 @@
+{
+    "args": [
+        "-std=gnu++17",
+        "-IC:/PROGRA~1/R/R-43~1.0/include",
+        "-DNDEBUG",
+        "-IC:/Users/P53/AppData/Local/R/win-library/4.3/Rcpp/include",
+        "-IC:/Users/P53/AppData/Local/R/win-library/4.3/RcppArmadillo/include",
+        "-DEIGEN_DONT_VECTORIZE",
+        "-nostdinc",
+        "-include",
+        "C:/Users/P53/Documents/R pacakges/ReAD/.Rproj.user/81B68CE4/compilation-database/mingw64/cpp-definitions.h"
+    ],
+    "pch": "RcppArmadillo",
+    "is_cpp": true,
+    "hash": "1686584269",
+    "compiler": "6762244524107556826",
+    "rversion": "4.3.0",
+    "dbversion": 4
+}

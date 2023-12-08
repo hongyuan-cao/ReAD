@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
+import(qvalue)
+import(stats)
+useDynLib(ReAD, .registration = TRUE)
